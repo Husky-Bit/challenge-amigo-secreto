@@ -15,3 +15,15 @@ function agregarAmigo() {
     
     return;
 }
+
+function actualizarLista() {
+    let lista = document.querySelector("#listaAmigos");
+    lista.innerHTML = ""; // Limpia la lista
+
+    for (let i = 0 ; i < listaAmigos.length ; i++) {
+        let li = document.createElement("li");
+        li.textContent = listaAmigos[i];
+        lista.appendChild(li);
+    }
+
+}
