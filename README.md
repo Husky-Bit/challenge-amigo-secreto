@@ -63,6 +63,7 @@ amigo-secreto/
 ├── index.html        # Página principal con la estructura HTML
 ├── style.css         # Estilos de la página
 ├── app.js            # Lógica del juego
+├── LICENSE           # Licencia
 └── README.md         # Este archivo
 ```
 
