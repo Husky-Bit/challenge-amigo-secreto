@@ -35,7 +35,7 @@ No se requieren dependencias externas para este proyecto. Solo necesitas un nave
 
    Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/Husky-Bit/challenge-amigo-secreto.git
    ```
 
 2. **Abrir el proyecto:**
