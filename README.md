@@ -42,7 +42,7 @@ No se requieren dependencias externas para este proyecto. Solo necesitas un nave
 
    Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador:
    ```bash
-   cd amigo-secreto
+   cd challenge-amigo-secreto
    open index.html
    ```
 
